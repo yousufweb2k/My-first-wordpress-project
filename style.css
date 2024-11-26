@@ -1,0 +1,87 @@
+.box-section{
+    background-color: black;
+
+}
+.box-div{
+    background-color: rgb(242, 14, 14);
+    width: 50%;
+
+}
+.box-heading{
+    color: aliceblue;
+}
+.mah-section{
+background-color: black;padding: 100px;
+}
+.mah-div{
+background-color: red;
+}
+.mah-heading{
+color: white;
+padding-top: 30px;padding-bottom: 30px;padding-left: 30px;
+}
+
+
+
+
+
+
+
+
+
+.yas-section{
+background-color: black;
+padding: 100px;
+display: flex;
+gap: 10px;
+position: relative;
+}
+.yas1-div{
+position: absolute;
+top: 0%;left: 0%;
+}
+.yas2-div{
+position: absolute;
+top: 0%;right: 0%;
+}
+.yas3-div{
+position: absolute;
+bottom: 0%;left: 0%;
+}
+.yas4-div{
+    position: absolute;
+    bottom: 0%;right: 0%;
+}
+.yas5-div{
+    position: absolute;
+    bottom: 35%;
+    left: 35%;
+}
+.yas{
+    background-color: red;
+    width: 30%;
+}
+.yas h1{
+    color: white;
+    padding-left: 70px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
